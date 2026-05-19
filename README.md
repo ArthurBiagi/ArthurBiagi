@@ -5,7 +5,7 @@ Engenharia de Software @ UTFPR | Ex-ETEC Albert Einstein.
 
 ### 🚀 Foco de Estudo Atual
 
-* **Linguagens:** C (Lógica de Programação), JavaScript e Pyhton
+* **Linguagens:** C (Lógica de Programação), JavaScript e Python
 * **Banco de Dados:** SQL (Modelagem e Consultas)
 * **Ferramentas:** Git, GitHub e VS Code
 
